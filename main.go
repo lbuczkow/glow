@@ -24,7 +24,7 @@ import (
 
 var (
 	// Version as provided by goreleaser.
-	Version = ""
+	Version = "glow version with image suport for iTerm2, modified by lbuczkow"
 	// CommitSHA as provided by goreleaser.
 	CommitSHA = ""
 
