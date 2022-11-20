@@ -228,6 +228,8 @@ github.com/charmbracelet/bubbletea v0.23.0 h1:oGChhsNcm7kltiTdjxJbVlyh93N5fycluO
 github.com/charmbracelet/bubbletea v0.23.0/go.mod h1:JAfGK/3/pPKHTnAS8JIE2u9f61BjWTQY57RbT25aMXU=
 github.com/charmbracelet/charm v0.8.6 h1:/U6rxGj4J6zZ1Ex8+wTr4hNMr4ESBzNZbC1UyrJPVbg=
 github.com/charmbracelet/charm v0.8.6/go.mod h1:8dE3uX+TYSpa7Q6e/CmjN6WSd7koSAKNQTGWugFREx4=
+github.com/charmbracelet/glamour v0.6.0 h1:wi8fse3Y7nfcabbbDuwolqTqMQPMnVPeZhDM273bISc=
+github.com/charmbracelet/glamour v0.6.0/go.mod h1:taqWV4swIMMbWALc0m7AfE9JkPSU8om2538k9ITBxOc=
 github.com/charmbracelet/harmonica v0.2.0/go.mod h1:KSri/1RMQOZLbw7AHqgcBycp8pgJnQMYYT8QZRqZ1Ao=
 github.com/charmbracelet/lipgloss v0.5.0/go.mod h1:EZLha/HbzEt7cYqdFPovlqy5FZPj0xFhg5SaqxScmgs=
 github.com/charmbracelet/lipgloss v0.6.0 h1:1StyZB9vBSOyuZxQUcUwGr17JmojPNm87inij9N3wJY=
@@ -472,6 +474,8 @@ github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
 github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0SNc=
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
+github.com/lbuczkow/glamour v0.0.0-20221120131906-01e544a33d8b h1:cfnQUlr4eiPlN8QVY5YCu1ycHS9QNRVFAyN1WvwQnnA=
+github.com/lbuczkow/glamour v0.0.0-20221120131906-01e544a33d8b/go.mod h1:1y73SYQlJm7RYxN7EP/xe52Z0pNNFBPWG3Syo39MyJ0=
 github.com/lucasb-eyer/go-colorful v1.0.3/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
 github.com/lucasb-eyer/go-colorful v1.2.0 h1:1nnpGOrhyZZuNyfu1QjKiUICQ74+3FNCN69Aj6K7nkY=
 github.com/lucasb-eyer/go-colorful v1.2.0/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
