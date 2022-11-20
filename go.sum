@@ -476,6 +476,8 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/lbuczkow/glamour v0.0.0-20221120131906-01e544a33d8b h1:cfnQUlr4eiPlN8QVY5YCu1ycHS9QNRVFAyN1WvwQnnA=
 github.com/lbuczkow/glamour v0.0.0-20221120131906-01e544a33d8b/go.mod h1:1y73SYQlJm7RYxN7EP/xe52Z0pNNFBPWG3Syo39MyJ0=
+github.com/lbuczkow/glamour v0.0.0-20221120142648-399fd48bb52f h1:S1I4xmZh/Xf8ULjL6zk/w7syaXp+gDPFAmBHle7w7ls=
+github.com/lbuczkow/glamour v0.0.0-20221120142648-399fd48bb52f/go.mod h1:1y73SYQlJm7RYxN7EP/xe52Z0pNNFBPWG3Syo39MyJ0=
 github.com/lucasb-eyer/go-colorful v1.0.3/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
 github.com/lucasb-eyer/go-colorful v1.2.0 h1:1nnpGOrhyZZuNyfu1QjKiUICQ74+3FNCN69Aj6K7nkY=
 github.com/lucasb-eyer/go-colorful v1.2.0/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=

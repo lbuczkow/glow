@@ -6,9 +6,10 @@ require (
 	github.com/charmbracelet/bubbles v0.14.0
 	github.com/charmbracelet/bubbletea v0.23.0
 	github.com/charmbracelet/charm v0.8.6
+	github.com/charmbracelet/glamour v0.6.0 // indirect
 	github.com/charmbracelet/lipgloss v0.6.0
 	github.com/dustin/go-humanize v1.0.1-0.20200219035652-afde56e7acac
-	github.com/lbuczkow/glamour latest
+	github.com/lbuczkow/glamour v0.0.0-20221120142648-399fd48bb52f
 	github.com/mattn/go-runewidth v0.0.14
 	github.com/meowgorithm/babyenv v1.3.1
 	github.com/mitchellh/go-homedir v1.1.0
