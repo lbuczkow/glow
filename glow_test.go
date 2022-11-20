@@ -9,8 +9,8 @@ func TestGlowSources(t *testing.T) {
 	tt := []string{
 		".",
 		"README.md",
-		"github.com/charmbracelet/glow",
-		"https://github.com/charmbracelet/glow",
+		"github.com/lbuczkow/glow",
+		"https://github.com/lbuczkow/glow",
 	}
 
 	for _, v := range tt {

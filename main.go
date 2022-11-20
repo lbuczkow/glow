@@ -12,9 +12,9 @@ import (
 	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/glamour"
-	"github.com/charmbracelet/glow/ui"
-	"github.com/charmbracelet/glow/utils"
+	"github.com/lbuczkow/glamour"
+	"github.com/lbuczkow/glow/ui"
+	"github.com/lbuczkow/glow/utils"
 	"github.com/meowgorithm/babyenv"
 	gap "github.com/muesli/go-app-paths"
 	"github.com/spf13/cobra"
@@ -272,6 +272,7 @@ func executeCLI(cmd *cobra.Command, src *source, w io.Writer) error {
 		gs,
 		glamour.WithWordWrap(int(width)),
 		glamour.WithBaseURL(baseURL),
+    glamour.WithImageDisplay(),		
 	)
 	if err != nil {
 		return err

@@ -12,7 +12,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/charm"
 	"github.com/charmbracelet/charm/keygen"
-	"github.com/charmbracelet/glow/utils"
+	"github.com/lbuczkow/glow/utils"
 	"github.com/muesli/gitcha"
 	te "github.com/muesli/termenv"
 	"github.com/segmentio/ksuid"
