@@ -1,5 +1,45 @@
 # Glow
 
+## Info on the fork
+
+This is a modified fork of charmbracelet/glow and it uses a modified fork of panda2134/glamour.
+
+The modified version allows to display images directly in a terminal using inline images protocol.
+
+See issue [#175](https://github.com/charmbracelet/glamour/issues/175) for details.
+
+Supported terminals: iTerm2 and WezTerm.
+
+### Build (requires Go 1.13+)
+
+```bash
+git clone https://github.com/lbuczkow/glow.git
+cd glow
+go build
+```
+
+### Example
+
+```bash
+./glow test.md
+```
+
+You should see:
+
+![](screenshot.png)
+
+### Tips
+
+If images do not show up you may need to set the variable:
+
+```bash
+export TERM_PROGRAM=wezterm
+glow md-file-with-images.md
+```
+
+---
+
+
 Render markdown on the CLI, with _pizzazz_!
 
 <p align="center">
