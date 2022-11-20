@@ -7,7 +7,7 @@ require (
 	github.com/charmbracelet/bubbletea v0.23.0
 	github.com/charmbracelet/charm v0.8.6
 	github.com/lbuczkow/glamour 01e544a33d8bec862aa9bbca16be636c5e3aa0ee
-	github.com/lbuczkow/glow d7892e3c47da108e9d168b323469e9d4b4830cc0
+	github.com/lbuczkow/glow 906d3107d05a20ec1f9537bd33339f9972d7e258
 	github.com/charmbracelet/lipgloss v0.6.0
 	github.com/dustin/go-humanize v1.0.1-0.20200219035652-afde56e7acac
 	github.com/mattn/go-runewidth v0.0.14
