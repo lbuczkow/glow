@@ -726,7 +726,8 @@ func localFileToMarkdown(cwd string, res gitcha.SearchResult) *markdown {
 		docType:   LocalDoc,
 		localPath: res.Path,
 		Markdown: charm.Markdown{
-			Note:      stripAbsolutePath(res.Path, cwd),
+			//Note:      stripAbsolutePath(res.Path, cwd),
+			Note:      res.Path,
 			CreatedAt: res.Info.ModTime(),
 		},
 	}
