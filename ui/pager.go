@@ -5,6 +5,7 @@ import (
 	"log"
 	"math"
 	"strings"
+	"path/filepath"
 	"time"
 
 	"github.com/charmbracelet/bubbles/spinner"
@@ -591,6 +592,8 @@ func glamourRender(m pagerModel, markdown string) (string, error) {
 	r, err := glamour.NewTermRenderer(
 		gs,
 		glamour.WithWordWrap(width),
+		glamour.WithBaseURL(filepath.Dir(m.currentDocument.Note) + "/"),
+		glamour.WithImageDisplay(),
 	)
 	if err != nil {
 		return "", err
